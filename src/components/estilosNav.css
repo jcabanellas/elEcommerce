@@ -1,0 +1,14 @@
+.NavBar{
+    display: flex;
+    color:blue;
+        
+}
+
+li{
+    list-style-type: none;
+    display:inline;
+    margin: 10px;
+}
+
+
+
